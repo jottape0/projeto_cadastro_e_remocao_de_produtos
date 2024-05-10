@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao.silveira\\source\\repos\\Produto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4FE330-0557-4B51-8A7E-7F6B401FBB0C}|Models\\Models.csproj|C:\\Users\\joao.silveira\\source\\repos\\Produto\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4FE330-0557-4B51-8A7E-7F6B401FBB0C}|Models\\Models.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEB6567-B21E-42D1-90F7-F847D5D653B5}|WinProdutos\\WinProdutos.csproj|c:\\users\\joao.silveira\\source\\repos\\produto\\winprodutos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DEB6567-B21E-42D1-90F7-F847D5D653B5}|WinProdutos\\WinProdutos.csproj|solutionrelative:winprodutos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEB6567-B21E-42D1-90F7-F847D5D653B5}|WinProdutos\\WinProdutos.csproj|C:\\Users\\joao.silveira\\source\\repos\\Produto\\winprodutos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DEB6567-B21E-42D1-90F7-F847D5D653B5}|WinProdutos\\WinProdutos.csproj|solutionrelative:winprodutos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\joao.silveira\\source\\repos\\Produto\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\joao.silveira\\source\\repos\\Produto\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:44:47.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joao.silveira\\source\\repos\\Produto\\WinProdutos\\Form1.cs",
+              "RelativeDocumentMoniker": "WinProdutos\\Form1.cs",
+              "ToolTip": "C:\\Users\\joao.silveira\\source\\repos\\Produto\\WinProdutos\\Form1.cs [Design]",
+              "RelativeToolTip": "WinProdutos\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:34:40.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\joao.silveira\\source\\repos\\Produto\\WinProdutos\\Form1.cs",
+              "RelativeDocumentMoniker": "WinProdutos\\Form1.cs",
+              "ToolTip": "C:\\Users\\joao.silveira\\source\\repos\\Produto\\WinProdutos\\Form1.cs",
+              "RelativeToolTip": "WinProdutos\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:07:58.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
